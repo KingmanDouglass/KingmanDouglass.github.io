@@ -6,11 +6,18 @@ body {
 }
 
 h1 {
-	font-size: 32px;
   font-family: Georgia, serif;
   color: red;
 }
 
+h2 {
+  font-family: Georgia, serif;
+}
+
+{
+	font-family: Georgia, serif;	
+}
+
 h5 {
-	font-size: 32px;
+	font-family: Georgia, serif;
 }
