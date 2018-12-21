@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-	font-family:georgia
+	font-family:georgia, serif;
 		font-color: red
   font-size: 32px;
 }
