@@ -1,14 +1,3 @@
-body {
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;
+p {
+	color: red;
 }
-
-h1 {
-	font-family:georgia, serif;
-		font-color: red
-  font-size: 32px;
-}
-
-
